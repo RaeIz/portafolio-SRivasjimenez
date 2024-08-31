@@ -16,31 +16,196 @@ nav {
   justify-content: center;
   padding: 0.5rem;
   gap: 0.5rem;
-  border-bottom: solid 1px #aaa;
-  background-color: #eee;
+  border-bottom: solid 1px #1379B2;
+  background-color: #1379B2;
 }
 
 nav a {
   display: inline-block;
   min-width: 9rem;
   padding: 0.5rem;
-  border-radius: 0.2rem;
-  border: solid 1px #aaa;
+  border-radius: 0.5rem;
+  border: solid 2px #aaa;
   text-align: center;
   text-decoration: none;
-  color: #555;
+  color: #ffffff;
 }
 
 nav a[aria-current='page'] {
   color: #000;
-  background-color: #d4d4d4;
+  background-color: #ededed;
 }
 
 main {
   padding: 1rem;
+  background-color: #00B0F6;
 }
 
 h1 {
   font-weight: bold;
   font-size: 1.5rem;
+  color: #000;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #000;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #000;
+}
+
+h4 {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #000;
+}
+
+h5 {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #000;
+}
+
+p{
+  color: #000;
+}
+
+ol{
+  color: black;
+}
+ul{
+  color: black;
+}
+
+.container{
+  background: #00B0F6;
+}
+
+.box-1{
+  display: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 340px;
+  margin-left: 270px;
+  width: 890px;
+  min-width: 9rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  border: solid 2px white;
+  background-color: white;
+  text-decoration: none;
+  text-align: justify-content;
+  color: #ffffff;
+}
+
+.box-2{
+  display: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 340px;
+  margin-left: 270px;
+  width: 890px;
+  min-width: 9rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  border: solid 2px white;
+  background-color: white;a
+  text-decoration: none;
+  text-align: center;
+  color: #ffffff;
+}
+
+.subBox{
+  display: center;
+  margin-bottom: 30px;
+  min-width: 9rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  border: solid 2px white;
+  background-color: white;
+  text-decoration: none;
+  text-align: justify-content;
+  color: #ffffff;
+}
+
+.logoYoutube{
+  width: 75px;
+  height: 50px;
+}
+
+.project1{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 310px;
+  margin-right: 180px;
+  width:230px;
+  height:324px;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  border: solid 2px black;
+  display: center;
+}
+
+.project2{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 310px;
+  margin-right: 180px;
+  width:130px;
+  height:80px;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  border: solid 2px black;
+  display: center;
+}
+.project3{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 240px;
+  margin-right: 180px;
+  width: 340px;
+  height:340px;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  border: solid 1px black;
+  display: center;
+}
+
+li{
+  margin-bottom: 15px;
+  
+}
+
+.code1{
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 700px;
+}
+.code2{
+  margin-bottom: 20px;
+  margin-top: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 600px;
+}
+.code3{
+  margin-bottom: 20px;
+  margin-top: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 600px;
+}
+
+.finisher{
+  margin-bottom: 20px;
+  margin-top: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
